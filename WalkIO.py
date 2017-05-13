@@ -1,4 +1,6 @@
 import random
+import Tkinter
+
 
 class chromosomes(arms, legs, head):
     def arms(action,confidence):
