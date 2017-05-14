@@ -1,0 +1,15 @@
+1. Create a class for each "chromosome," Whereas the limited amount of "traits" from chromosomes
+are assigned a value from 0-1 at random, in which the limited range for randomness is by 2 decimals
+after 0 until 1.00, being the max possible outcome.
+
+2. Make sure the "guess" for each assigned trait is checked to see if it's the best outcome to make progress, but also
+automatically removed from the array of possible numbers. Do this by appending the biggest "confidence" value, which will
+tell the program that the experiment has peaked max evolution in the tests. Use a while loops to go through the iterations
+
+3. Do this for every trait, which will make an outcome of "Experiment x," with x being the number of trials it takes  
+to be at its current stage of evolution. The product of all the traits assigned at random will be the "result"
+number, and that will also be tested on how confident or unconfident the experiment is.
+
+4. Create a GUI that can illustrate the codes action, based on its pixel density. The numbers assigned to each trait
+will tell the output how to express its current state of evolution in the test trials. 
+

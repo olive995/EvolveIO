@@ -12,4 +12,21 @@ class chromosomes(arms, legs, head, body):
 
     def arms(good_arms):
         good_arms = []
-        for i in traits.confidence:
+        for i in traits.confidence
+
+
+
+
+    def legs(good_legs):
+
+
+
+
+
+    def head(good_head):
+
+
+
+
+
+    def body(good_body):
