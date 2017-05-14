@@ -3,7 +3,7 @@ import Tkinter
 
 
 class chromosomes(arms, legs, head):
-    def arms(action,confidence):
+    def arms(action,confidence, good_arms):
         action = []
         good_arms = []
         confidence = action.append.random.shuffle(action).float
